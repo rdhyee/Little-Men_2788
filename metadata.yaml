@@ -1,0 +1,54 @@
+_repo: Little-Men_2788
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, Louisa M. (Louisa May)
+    - Alcott, L. M. (Louisa May)
+    - Barnard, A. M.
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: "Little Men, or Life at Plumfield with Jo's Boys, is a novel by American\
+  \ author Louisa May Alcott, first published in 1871. The novel reprises characters\
+  \ from Little Women and is considered by some the second book in an unofficial Little\
+  \ Women trilogy, which is completed with Alcott's 1886 novel Jo's Boys, and How\
+  \ They Turned Out: A Sequel to \"Little Men\". It tells the story of Jo Bhaer and\
+  \ the children at Plumfield Estate School. It was inspired by the death of Alcott's\
+  \ brother-in-law, which reveals itself in one of the last chapters, when a beloved\
+  \ character from Little Women passes away. It has been adapted to a 1934 film, a\
+  \ 1940 film, a 1998 film, a television series, and a Japanese animated television\
+  \ series.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Children's Literature
+- School Stories
+gutenberg_issued: '2001-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2788'
+  wikidata: Q3902626
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Fiction'
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'New England -- History -- 19th century -- Fiction'
+- !lcsh 'Boarding schools -- Fiction'
+- !lcsh 'Family life -- New England -- Fiction'
+- GITenberg
+title: Little Men
+url: http://www.gutenberg.org/ebooks/2788
+wikipedia:
+- https://fi.wikipedia.org/wiki/Pikku_miehi%C3%A4
+- https://pl.wikisource.org/wiki/Mali_m%C4%99%C5%BCczyzni
+- https://es.wikipedia.org/wiki/Hombrecitos
+- https://simple.wikipedia.org/wiki/Little_Men
+- https://en.wikisource.org/wiki/Little_Men
+- https://en.wikipedia.org/wiki/Little_Men
+- https://it.wikipedia.org/wiki/Piccoli_uomini
